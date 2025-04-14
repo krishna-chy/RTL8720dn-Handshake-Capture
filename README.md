@@ -21,4 +21,4 @@ Because I modified some of the core libraries, you may encounter a problem. Plea
 7. If the handshake is captured, Capture Handshake button will change to Get PCAP
 
 ## WARNING
-Performing such attacks is ILLEGAL. Make sure you are using it on controlled environment and NOT in public places.
+Performing such attacks is ILLEGAL in most places. Make sure you are using it on controlled environment and NOT in public places.
