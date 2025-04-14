@@ -10,3 +10,15 @@ This code also demonstrates the capability of RTL8720dn performing SoftAP, promi
 ## Installation
 This program can be compiled using AmebaD SDK version 3.1.7 <br>
 Because I modified some of the core libraries, you may encounter a problem. Please let me know so I can fix it. <br>
+
+## How To Use
+1. Compile and flash the code
+2. Connect to "CAPPER" with password "12345678"
+3. Go to 192.168.1.1 in your browser
+4. Select your target
+5. Press Capture Handshake
+6. Wait for a while
+7. If the handshake is captured, Capture Handshake button will change to Get PCAP
+
+## WARNING
+Performing such attacks is ILLEGAL. Make sure you are using it on controlled environment and NOT in public places.
