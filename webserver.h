@@ -28,7 +28,7 @@ void webServer_handleClient() {
           client.print(header);
           client.print("<html><body>");
           client.print("<h1>BW16 HANDSHAKE CAPTURE</h1>");
-          client.print("<p>Deauth made possible by tesa-kelebeband. https://github.com/tesa-klebeband/</p>");
+          client.print("<p>Deauth made possible by tesa-klebeband. https://github.com/tesa-klebeband/</p>");
           client.print("<p>Sniffer code by Nickguitar. https://github.com/Nickguitar/</p>");
           client.print("<p>Forked by Cancro29. https://github.com/Cancro29/</p>");
           client.print("<form style='display:inline-block; padding-left:8px;' method='post' action='/?scan=scan'><button>Scan</button></form>");
