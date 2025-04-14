@@ -4,7 +4,7 @@ Capture WPA/WPA2 4-way handshake using BW16 (RTL8720dn)
 ## Fork Information
 This code is a fork of Nickguitar's code. https://github.com/Nickguitar/cypher-5G-deauther <br>
 This code also uses tesa-klebeband's wifi packet injection code. https://github.com/tesa-klebeband/RTL8720dn-WiFi-Packet-Injection <br>
-I did web server stuff <br>
+I did web server stuff for simplicity<br>
 This code also demonstrates the capability of RTL8720dn performing SoftAP, promiscuous mode, and deauth at the same time (sort of). <br>
 
 ## Installation
